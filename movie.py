@@ -3,6 +3,7 @@
 Created on Sat May 12 00:18:03 2018
 @author: jishn
 """
+#Code which is used to find sentiment of the viewers.
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
